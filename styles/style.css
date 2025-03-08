@@ -1,0 +1,89 @@
+h3 {
+  color: orange;
+}
+table {
+  border: 10px solid #d8d7d7;
+  border-style: outset;
+  padding: 5px;
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+th {
+  border: 1px solid #d8d7d7;
+  border-style: outset;
+  text-align: center;
+  padding: 7px;
+}
+td {
+  border: 1px solid #d8d7d7;
+  border-style: outset;
+  text-align: center;
+}
+.ex {
+  padding: 5px;
+}
+.black {
+  color: black;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.yellow {
+  color: yellow;
+}
+.magenta {
+  color: magenta;
+}
+.cyan {
+  color: cyan;
+}
+.white {
+  color: #000000;
+}
+.myColor {
+  color: #d0b000;
+}
+
+.black-hx {
+  padding: 5px;
+  color: #fff;
+  background-color: black;
+}
+.red-hx {
+  padding: 5px;
+  background-color: red;
+}
+.green-hx {
+  padding: 5px;
+  background-color: #00ff00;
+}
+.blue-hx {
+  padding: 5px;
+  background-color: blue;
+}
+.yellow-hx {
+  padding: 5px;
+  background-color: yellow;
+}
+.magenta-hx {
+  padding: 5px;
+  background-color: magenta;
+}
+.cyan-hx {
+  padding: 5px;
+  background-color: cyan;
+}
+.white-hx {
+  padding: 5px;
+  background-color: white;
+}
+.myColor-hx {
+  padding: 5px;
+  background-color: #d0b000;
+}
